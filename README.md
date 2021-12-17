@@ -14,7 +14,7 @@ We are using this data to determine This is accomplished using the following res
 ## Linear Regression to Predict MPG
 ![Deliverable1 - Linear Regression](https://user-images.githubusercontent.com/88564212/146281405-a5e29bca-184c-4a44-8d87-dd4f3f43dc89.png)
 
-- The variables that provided the highest amounts of variance were the vehicle length, vehicle weight, and ground clearance. This indicates a non random effect on the overall MPG of the vehicle. 
+- The variables that provided the highest amounts of variance were the vehicle length, and ground clearance. This indicates a non random effect on the overall MPG of the vehicle. 
 - The P value of our analysis is far below the most extreme significance, further indicating that these values have a non random effect on the overall MPG of the vehicles. This and the above would be enough data to reject a null hypothesis. 
 - The R Squared value shows us that this model can predict the results fairly reliably at .07149, but in the quantity that these vehicles would be produced we would want this to be higher. 
 
